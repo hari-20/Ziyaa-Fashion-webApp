@@ -1,17 +1,6 @@
-------------------------------------------------------
-Template Name: Mona - Model Agency HTML Template
-Template Author: Colorlib
-Template Author URI: https://colorlib.com
-Version: 1.0.0
-Last Update: Dec 21, 2018
------------------------------------------------------
-
---------------------------------
-To start 'Gulp' => npm run start
---------------------------------
-
+-----------------------
 File Structure:
-mona/
+ziyaa Fashion/
 └── src/
     ├── css/
     │   ├── default-assets/
